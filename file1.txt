@@ -1,0 +1,7 @@
+Devops Module :
+- AWS Cloud 
+- Linux 
+- Devops Overview 
+- Git and GitHub 
+- Build Tools 
+- Jenkins 
